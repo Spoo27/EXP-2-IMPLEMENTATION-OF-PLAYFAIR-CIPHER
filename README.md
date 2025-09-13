@@ -202,3 +202,7 @@ int main() {
  <img width="453" height="288" alt="image" src="https://github.com/user-attachments/assets/f037af64-91cc-46d0-9a7b-2c40e626ddf3" />
 
  ## RESULT:
+
+To encrypt a plain text and decrypt a cipher text using play fair Cipher substitution technique was executed successfully.
+ 
+ 
